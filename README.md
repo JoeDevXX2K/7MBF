@@ -37,7 +37,7 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
                3 Bulan  : Rp 150.000
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">WhatsApp</h3>
 <p align="left">
 <a href="https://wa.me/+6283164279551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="xx72.xvv2050" height="30" width="40" /></a>
 </P>
