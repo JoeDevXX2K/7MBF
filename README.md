@@ -1,4 +1,4 @@
-![a4cd4d37d90e1185047d4bc59e0ce52d](https://user-images.githubusercontent.com/107848026/174825804-9a55d8bf-9172-4ab1-99bc-4c244b36acef.gif)
+[![anime-cute.gif](https://i.postimg.cc/Y9S3N1Rk/anime-cute.gif)](https://postimg.cc/94vZCwsN)
 
  7MBF adalah sebuah tools atau script Termux untuk cracking sebuah akun Facebook.
 
