@@ -15,6 +15,7 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
          $ pkg install python git -y
          $ pip install bs4 requests futures
          $ pip install rich
+         $ rm -rf 7MBF
          $ git clone https://github.com/JoeDevXX2K/7MBF
          $ cd $HOME/7MBF
          $ git pull
